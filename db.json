@@ -257,20 +257,6 @@
     },
     {
       "isActive": true,
-      "id": "5fbc19a65a3f794d72471176",
-      "product_name": "Sonaja Azteca",
-      "description": "Hermoso juego de sonaja azteca hecho a mano",
-      "price": 153,
-      "category": "Music",
-      "brand": "Tonal",
-      "sku": "07df9e82-bf7f-4cee-bd5e-65bdd1894fff",
-      "createdAt": "2020-11-23T20:20:54.246Z",
-      "updatedAt": "2020-11-23T20:20:54.246Z",
-      "__v": 0,
-      "images": "https://i.pinimg.com/564x/d2/96/65/d296658d8d55ed48804aff8ef8b5d5a9.jpg"
-    },
-    {
-      "isActive": true,
       "id": "5fbc19a65a3f794d72471170",
       "product_name": "Collar de jade",
       "description": "Bonito Collar de jade y piedras preciosas",
@@ -310,20 +296,6 @@
       "updatedAt": "2020-11-23T20:20:54.246Z",
       "__v": 0,
       "image": "https://www.mesoweb.com/features/jpl/media2/MNA093.jpg"
-    },
-    {
-      "isActive": true,
-      "id": "5fbc19a65a3f794d72471175",
-      "product_name": "El codice Mexica",
-      "description": "Libro que narra acerca de un descubrimiento de un codice antiguo mexica",
-      "price": 673,
-      "category": "Music",
-      "brand": "Feeney, Waelchi and Tillman",
-      "sku": "c1460b0b-ce27-40e8-99dd-14d4d9d0f176",
-      "createdAt": "2020-11-23T20:20:54.246Z",
-      "updatedAt": "2020-11-23T20:20:54.246Z",
-      "__v": 0,
-      "images": "https://www.gandhi.com.mx/media/catalog/product/9/7/9788416994908.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:"
     },
     {
       "isActive": true,
