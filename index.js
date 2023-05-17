@@ -50,7 +50,7 @@ server.post('/login', (req, res) => {
   }
 })
 
-server.post('/register', (req, res) => {
+server.post('/signup', (req, res) => {
   // const users = db.get('users').value();
   const {
     id,

@@ -14,9 +14,9 @@ Donde existen las rutas de `items` y de `users`
 
 ### users
 
-#### Register
+#### Signup
 `POST`
-`/register`
+`/signup`
 
 ```
 {
